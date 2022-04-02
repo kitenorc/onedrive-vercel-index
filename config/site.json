@@ -1,8 +1,8 @@
 {
-  "userPrincipalName": "admin@hin.cool",
+  "userPrincipalName": "admin@nintendocloud.onmicrosoft.com",
   "icon": "/favicon.ico",
   "title": "W4J1e's Pan",
-  "baseDirectory": "/",
+  "baseDirectory": "/public",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
